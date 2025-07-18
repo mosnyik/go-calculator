@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Printf("Hello world \n")
+	var number uint8 = 50
+	fmt.Printf("Hello world %d \n", number);
 }

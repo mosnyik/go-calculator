@@ -1,3 +1,0 @@
-Go Variable Types
-
-1. 
