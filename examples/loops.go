@@ -1,4 +1,4 @@
-package loops
+package coreConcepts
 
 import "fmt"
 
