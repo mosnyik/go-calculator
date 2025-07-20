@@ -7,5 +7,6 @@ import (
 
 func main(){
 	// coreConcepts.Loop()
-	coreConcepts.Array()
+	// coreConcepts.Array()
+	coreConcepts.Calculate()
 }
