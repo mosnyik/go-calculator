@@ -1,9 +1,11 @@
 package main
 
 import (
-	"mosnyik/todo/examples"	)
+	goIdioms "mosnyik/todo/examples"
+)
 
 	func main(){
-		goIdioms.StructsExamples()
+		goIdioms.PointerExamples()
+		// goIdioms.StructsExamples()
 	}
 
