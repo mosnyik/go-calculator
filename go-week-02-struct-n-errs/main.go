@@ -5,7 +5,8 @@ import (
 )
 
 	func main(){
-		goIdioms.PointerExamples()
 		// goIdioms.StructsExamples()
+		// goIdioms.PointerExamples()
+		goIdioms.ErrorExamples()
 	}
 
