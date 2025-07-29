@@ -2,6 +2,28 @@
 
 ## Go Format
 
+Like in linux, go has a ways to expose formats for I/O streams
+
+- Standard input
+- Standard output
+- Standard error
+
+These are exposed through the os.strin
+So by default, fmt.Println() goes by default to standard output
+But if we use fmt.Fprintln(), it can be redirected to os.Strerr 
+
+So we can have the fmt.Println() which takes a variable number of args and format them in a straight line, seperated by space
+
+Also we have the fmt.Printf() which also takes a variable number of args and the first arg is a format string that tells how the rest should be formated
+
+When we use a fmt.Fprintln() or fmt.Fprintf(), what it does is allow for providing and output identifier for redirecting the output eg fmt.Fprintf(os.Strerr, "the error goes here")
+
+The last variation is the fmt.Sprintln() and the fmt.Sprintf(); 
+
+These do not return to an output, rather they return a formated string that can be used somewhere in the program, just like a function that returns a value
+
+For formating, look at https://pkg.go.dev/fmt
+
 ## Go I/O
 Go has a package os, which have a couple of usefull functions like the 
 - os in

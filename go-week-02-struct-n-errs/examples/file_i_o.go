@@ -9,6 +9,7 @@ import (
 )
 func GoFomatExamples() {
 	fmt.Println("Go Format Examples")
+	fmt.Println("What is actually going on here")
 }
 
 func GoFileIOExamples() {

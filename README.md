@@ -12,6 +12,10 @@ This project is my hands-on journey into learning Go, built around the philosoph
 - ✅ Functions and error handling
 - ✅ Working with standard I/O and CLI interaction
 
+## Maetrial 
+
+[Matt KØDVB YouTube Go Class ](https://www.youtube.com/watch?v=iDQAZEJK8lI)
+
 ---
 
 ## 📦 Tools Built So Far
