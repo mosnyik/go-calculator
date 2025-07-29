@@ -7,6 +7,7 @@ import (
 	func main(){
 		// goIdioms.StructsExamples()
 		// goIdioms.PointerExamples()
-		goIdioms.ErrorExamples()
+		// goIdioms.ErrorExamples()
+		goIdioms.FileIOExamples()
 	}
 
