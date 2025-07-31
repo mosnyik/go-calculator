@@ -24,8 +24,7 @@ func NoteTaker(){
 	fmt.Scan(&startAction) 
 
 	switch startAction {
-		case "1":
-			
+		case "1":	
 		AddNote();
 		return
 		case "2":
@@ -34,7 +33,6 @@ func NoteTaker(){
 				fmt.Println("No notes available.")
 				return
 			}
-				
 				table := writeTable.NewWriter(os.Stdout)
 				table.SetHeader(data[0])
 				table.AppendBulk(data[1:])

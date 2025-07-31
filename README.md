@@ -14,7 +14,7 @@ This project is my hands-on journey into learning Go, built around the philosoph
 
 ## Maetrial 
 
-[Matt KØDVB YouTube Go Class ](https://www.youtube.com/watch?v=iDQAZEJK8lI)
+[Matt KØDVB YouTube Go Class ](https://www.youtube.com/watch?v=iDQAZEJK8lI&list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
 
 ---
 
