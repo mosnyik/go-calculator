@@ -8,5 +8,8 @@ func main(){
 	// coreConcepts.Loop()
 	// coreConcepts.Array()
 	// coreConcepts.Calculate()
-	coreConcepts.AverageCalculator()
+	// coreConcepts.AverageCalculator()
+	// coreConcepts.SearchReplace()
+	coreConcepts.Exercise()
+	
 }
