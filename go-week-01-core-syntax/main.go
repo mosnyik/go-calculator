@@ -1,7 +1,7 @@
 package main
 
 import (
-	"mosnyik/go-core-synthax/examples";
+	coreConcepts "mosnyik/go-core-synthax/examples"
 )
 
 func main(){
@@ -10,6 +10,9 @@ func main(){
 	// coreConcepts.Calculate()
 	// coreConcepts.AverageCalculator()
 	// coreConcepts.SearchReplace()
-	coreConcepts.Exercise()
+	// coreConcepts.Exercise()
+		coreConcepts.SortnCount()
+		
+
 	
 }
